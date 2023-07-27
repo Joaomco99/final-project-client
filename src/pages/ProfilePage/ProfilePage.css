@@ -1,0 +1,21 @@
+.profile-header {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+}
+
+.user-info {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: orange;
+    font-size: 30px;
+}
+
+.user-handles {
+    color: white;
+}

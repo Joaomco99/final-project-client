@@ -1,0 +1,60 @@
+body {
+    all: initial;
+  overflow-x: hidden;
+  background-color: #151313
+  }
+
+  .welcome_to_page_container{
+      display: flex;
+      height: 600px;
+      text-align: center;
+      align-content: center;
+      justify-content: space-between;
+      margin: 60px 200px 0 200px;
+      flex-direction: column;
+  }
+  
+
+  .welcome_to_page_text {
+  font-family: 'Rubik', sans-serif;
+  font-size: 25px;
+  text-align: justify;
+  color: aliceblue;
+  display: flex;
+}
+
+
+.Hub{
+  font-family: 'Rubik', sans-serif;
+  color:#FF9900;
+}
+
+.Welcome_text {
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px;
+  z-index: 1;
+  color: aliceblue;
+  text-align: left;
+}
+
+.Welcome_text1 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px;
+  color: aliceblue;
+  text-align: left;
+}
+
+
+
+
+
+.Xan13{
+  display: flex;
+  text-align: center;
+  align-content: center;
+  justify-content: space-around;
+  font-family: 'Rubik', sans-serif;
+  font-size: 12px;
+  color: aliceblue;
+  margin-top: 60px;
+}
