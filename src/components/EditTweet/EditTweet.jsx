@@ -8,7 +8,7 @@ function EditTweet({ tweet, handleEdit }) {
   };
 
   return (
-    <div>
+    <div className='Edit'>
       <textarea className='tweet-edit' value={editedContent} onChange={(e) => setEditedContent(e.target.value)} />
       <button className='button-21' onClick={handleSave}>Save</button>
     </div>

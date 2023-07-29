@@ -1,21 +1,25 @@
-.profile-header {
-    margin-top: 20px;
+.Total {
+    margin-top: 40px;
+    margin-left: 44%;
+    margin-right: 44%;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
-    font-size: 30px;
+    justify-content: space-between;
 }
 
 .user-info {
-    margin-top: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  
     color: orange;
-    font-size: 30px;
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
+    display: flex;
 }
 
 .user-handles {
-    color: white;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+   font-size: 30px;
+   
 }

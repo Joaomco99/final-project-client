@@ -55,15 +55,14 @@ function ProfilePage() {
 
     return (
         <div>
-            <div className='profile-header'>
-                Profile
-            </div>
-            <div className='user-info'>
-                @{user.name} &nbsp;
-                <div className='user-handles'>
+            <div className='Total'>
+              <div className='user-handles'>
                  {user.name}
                 </div>
-            </div>
+            <div className='user-info'>
+                @{user.name} &nbsp;
+              </div>
+              </div>
             
 
             <div className="feed">

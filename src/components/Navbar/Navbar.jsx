@@ -30,7 +30,7 @@ function Navbar() {
           </Link>
           
 
-          <span>{user && user.name}</span>
+          <span className="User">{user && user.name}</span>
         </>
       )}
 
